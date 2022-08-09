@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carahe-gd/github-packages/issues"
   },
-  "homepage": "https://github.com/carahe-gd/github-packages#readme"
+  "homepage": "https://github.com/carahe-gd/github-packages#readme",
+  "publishConfig": {
+   "@carahe-gd:registry": "https://npm.pkg.github.com"
+ }
 }
